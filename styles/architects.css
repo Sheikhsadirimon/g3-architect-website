@@ -243,6 +243,7 @@ footer{
   .sponsors-company,
   .facts-container {
     grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
     justify-items: center;
   }
   .Experience-badge{
